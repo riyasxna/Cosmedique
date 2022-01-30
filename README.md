@@ -27,6 +27,6 @@ npm install
 npm test
 
 ## To Visit App:
-# cosmedique.netlify.app
+# https://cosmedique.netlify.app/
 
 
