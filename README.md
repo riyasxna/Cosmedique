@@ -1,23 +1,19 @@
-# Blogger
-A front-end application based on idea of tours and travels.
-<br>
-User can explore various destination for various occasions.
+# Cosmedique
+A front-end application based on commercial merchndise of beauty and bodycare products.
 <br>
 
 
 
+![c1](https://user-images.githubusercontent.com/88880316/151697856-fb45674f-27f3-4270-9c3a-781ed769a41e.png)
 
-<img src="Screenshot 2021-10-28 at 9.17.19 PM.png">
 <br>
-<img src="Screenshot 2021-10-28 at 9.17.29 PM.png">
+![c4](https://user-images.githubusercontent.com/88880316/151697860-6b21a3a9-3978-4db0-ac08-d4fa7049be45.png)
+
 <br>
-<img src="Screenshot 2021-10-28 at 9.17.36 PM.png">
+![c3](https://user-images.githubusercontent.com/88880316/151697866-a6581e6c-44f7-4a28-893b-387a54ade1e6.png)
+
 <br>
-<img src="Screenshot 2021-10-28 at 9.17.41 PM.png">
-<br>
-<img src="Screenshot 2021-10-28 at 9.17.48 PM.png">
-<br>
-<img src="Screenshot 2021-10-28 at 9.17.52 PM.png">
+![c2](https://user-images.githubusercontent.com/88880316/151697869-2e017e4e-e861-4881-a33c-d826faa286ef.png)
 <br>
 
 
@@ -32,6 +28,6 @@ npm install
 npm test
 
 ## To Visit App:
-# https://exploretheblog.netlify.app/
+# cosmedique.netlify.app
 
 
